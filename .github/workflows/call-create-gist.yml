@@ -10,6 +10,8 @@ on:
 
 jobs:
   create:
+    permissions:
+      contents: write
     uses: devinschumacher/workflows/.github/workflows/create-gist.yml@main
     with:
       file_path: ${{ github.event.inputs.file_path }}
