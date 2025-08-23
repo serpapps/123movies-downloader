@@ -43,6 +43,5 @@ jobs:
       release_tag: ${{ github.event.inputs.release_tag }}
       issue_number: ${{ github.event.inputs.issue_number }}
       comment_text: ${{ github.event.inputs.comment_text }}
-      # IMPORTANT: Replace GH_PAT with your secret name
-      # This secret must exist in your repository
-      github_token: ${{ secrets.GH_PAT }}
+      # Using organization-level secret DEVIN_PAT_2
+      github_token: ${{ secrets.DEVIN_PAT_2 }}
