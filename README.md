@@ -2,11 +2,23 @@
 
 > Download movies and TV shows from 123movies instantly without ads or popups
 
-![123movies Downloader](images/featured.gif)
-
-## Description
+![123movies Downloader](https://raw.githubusercontent.com/serpapps/123movies-downloader/assets/images/featured.gif)
 
 123movies Downloader is a powerful tool that helps you download movies and TV shows from 123movies instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
+
+## 🔗 Links
+
+- 🎁 Get it [here](https://serp.ly/123movies-downloader)
+- ❓ Check FAQs [here](https://github.com/orgs/serpapps/discussions/categories/faq)
+- 🐛 Report bugs [here](https://github.com/serpapps/123movies-downloader/issues)
+- 🆕 Request features [here](https://github.com/serpapps/123movies-downloader/issues)
+
+### Resources
+
+- 💬 [Community](https://serp.ly/@serp/community)
+- 💌 [Newsletter](https://serp.ly/@serp/email)
+- 🛒 [Shop](https://serp.ly/@serp/store)
+- 🎓 [Courses](https://serp.ly/@serp/courses)
 
 ## Features
 
@@ -17,14 +29,14 @@
 - No watermarks
 - Subtitle extraction
 
-## Installation
+## Installation Instructions
 
 1. Clone the repository: git clone https://github.com/serpapps/123movies-downloader
 2. Install dependencies
 3. Configure settings
 4. Run the application
 
-## Usage
+## Usage Instructions
 
 1. Open the application
 2. Enter the URL of the content you want to download
@@ -39,28 +51,7 @@
 - BeautifulSoup
 - Requests
 
-## Supported Operating Systems
+## More Info
 
-- Windows
-- Macos
-- Linux
+- 📁 Repository [here](https://github.com/serpapps/123movies-downloader)
 
-## Links
-
-- [GitHub Repository](https://github.com/serpapps/123movies-downloader)
-- [Download](https://serp.ly/123movies-downloader)
-- [Product Page](https://store.serp.co/product-details/product/123movies-downloader)
-
-## Support
-
-Consider supporting the developers:
-- [GitHub Sponsors - @devinschumacher](https://github.com/sponsors/devinschumacher)
-- [Support Link](https://serp.ly/123movies-downloader)
-
-## License
-
-See [LICENSE.md](LICENSE.md) for details.
-
----
-
-*This README was auto-generated from [data/readme.json](data/readme.json)*
