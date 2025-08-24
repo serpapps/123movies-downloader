@@ -2,9 +2,9 @@
 
 > Download movies and TV shows from 123movies instantly without ads or popups
 
-![123movies Downloader](https://raw.githubusercontent.com/serpapps/123movies-downloader/assets/images/featured.gif)
+![123movies Downloader](https://raw.githubusercontent.com/serpapps/123movies-downloader/assets/images/123movies-downloader.gif)
 
-123movies Downloader is a powerful tool that helps you download movies and TV shows from 123movies instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
+123movies Downloader is a powerful tool that helps you download content from 123movies instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
 
 ## 🔗 Links
 
@@ -27,7 +27,7 @@
 - Batch download support
 - Resume interrupted downloads
 - No watermarks
-- Subtitle extraction
+- Content extraction
 
 ## Installation Instructions
 
@@ -47,11 +47,17 @@
 ## Technologies
 
 - Python
-- FFmpeg
-- BeautifulSoup
-- Requests
+- JavaScript
+- Node.js
+- Automation
 
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/123movies-downloader)
+
+<details>
+<summary>Keywords</summary>
+
+123movies downloader
+</details>
 
