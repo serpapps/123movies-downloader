@@ -1,21 +1,18 @@
 {
   "id": 1,
   "created_at": "2025-01-23T00:00:00Z",
-  "seo_title": "123movies Downloader - Free Movie & TV Show Download Tool",
-  "seo_description": "Download movies and TV shows from 123movies instantly without ads or popups",
+  "seo_title": "123movies Downloader - Free Content Download Tool",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/123movies-downloader",
   "purchase_url": "https://serp.ly/123movies-downloader",
   "store_product_id": null,
   "name": "123movies Downloader",
   "tagline": "Download movies and TV shows from 123movies instantly without ads or popups",
-  "featured_image": "images/featured.jpg",
-  "featured_image_gif": "images/featured.gif",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/123movies-downloader/assets/images/123movies-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/123movies-downloader/assets/images/123movies-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/123movies-downloader",
   "github_repo_tags": [
-    "123movies-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "123movies-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -24,10 +21,10 @@
     "Batch download support",
     "Resume interrupted downloads",
     "No watermarks",
-    "Subtitle extraction"
+    "Content extraction"
   ],
   "chrome_web_store_url": null,
-  "description": "123movies Downloader is a powerful tool that helps you download movies and TV shows from 123movies instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
+  "description": "123movies Downloader is a powerful tool that helps you download content from 123movies instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
   "product_video": null,
   "related_videos": null,
   "changelog": null,
@@ -51,17 +48,15 @@
   "status": "live",
   "technologies": [
     "Python",
-    "FFmpeg",
-    "BeautifulSoup",
-    "Requests"
+    "JavaScript",
+    "Node.js",
+    "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/123movies-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/123movies-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/123movies-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Streaming Tools",
-    "Entertainment"
+    "movies tv shows"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,23 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/123movies-downloader",
     "https://devinschumacher.com/123movies-downloader",
-    "https://serp.co/products/123movies-downloader/reviews/"
+    "https://serp.co/products/123movies-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "123movies",
-    "downloader",
-    "movies",
-    "tv shows",
-    "streaming",
-    "free",
-    "tool"
+    "123movies downloader"
   ]
 }
