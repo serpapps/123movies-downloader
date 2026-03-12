@@ -15,8 +15,7 @@ If you have ever tried to download 123Movies videos and hit a wall because the s
 
 ## 🔗 Links
 
-- 🎁 Get it [**here**](https://serp.cc/VDM-123movies-downloader)
-- 📄 Product page [**here**](https://serp.ly/123movies-downloader)
+- 🎁 Get it [**here**](https://serp.ly/123movies-downloader)
 - ❓ Check FAQs [**here**](https://help.serp.co/en/)
 - 🐛 Report bugs [**here**](https://github.com/serpapps/123movies-downloader/issues)
 - 🆕 Request features [**here**](https://github.com/serpapps/123movies-downloader/discussions)
