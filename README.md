@@ -9,6 +9,8 @@ SERP 123Movies Downloader is the only browser extension built specifically for s
 - Skip the technical hassle — no command-line tools, no desktop software, no manual configuration
 - Works on every 123Movies domain variant automatically, including new mirrors as they appear
 
+![123Movies Downloader extension](https://imagedelivery.net/lnCkkCGRx34u0qGwzZrUBQ/99229979-5d3f-4f6f-9e7b-9a6b73775c00/public)
+
 If you have ever tried to download 123Movies videos and hit a wall because the stream would not save, this tool handles it.
 
 ## 🔗 Links
