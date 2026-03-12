@@ -63,7 +63,7 @@ Downloading from 123Movies is tricky because these sites use streaming protocols
 
 **What you need:** A supported browser — Chrome, Edge, Brave, Firefox, or Opera — and an internet connection.
 
-**Step 1 — Install the extension.** Open your browser's extension store, search for "SERP 123Movies Downloader," and click Add to Browser. Alternatively, download the latest release from [GitHub](https://github.com/serpapps/123movies-downloader/releases/latest) and load it manually in your browser's extension settings. The extension icon will appear in your toolbar once the install completes.
+**Step 1 — Install the extension.** Open your browser's extension store, search for "Downloader for 123Movies," and click Add to Browser. Alternatively, download the latest release from [GitHub](https://github.com/serpapps/123movies-downloader/releases/latest) and load it manually in your browser's extension settings. The extension icon will appear in your toolbar once the install completes.
 
 **Step 2 — Sign in.** Click the extension icon and enter your email address. You will receive a one-time verification code in your inbox. Enter that code to activate your 3 free trial downloads.
 
