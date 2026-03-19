@@ -1,32 +1,10 @@
-# 123Movies Downloader  (Browser Extension)
+# 123Movies Downloader — Save Videos as MP4 | SERP
 
-> Browser extension that detects and saves videos from 123Movies and all its mirror sites as standard MP4 files — directly in your browser, no extra software required.
+SERP 123Movies Downloader is the only browser extension built specifically for saving videos from 123Movies and every one of its mirror sites. If you have ever tried to download 123Movies videos and hit a wall because the stream would not save, this tool handles it — detecting the video automatically when you press play and converting it to a standard MP4 file right inside your browser, with no extra software to install.
 
-SERP 123Movies Downloader is the only browser extension built specifically for saving videos from 123Movies and every one of its mirror sites. 
-
-- Save movies and shows from any 123Movies mirror for offline viewing on flights, commutes, or anywhere without internet
-- Never worry about disappearing mirrors — download and keep your own local copy before the domain goes offline
-- Skip the technical hassle — no command-line tools, no desktop software, no manual configuration
-- Works on every 123Movies domain variant automatically, including new mirrors as they appear
-
-![123Movies Downloader extension](https://imagedelivery.net/lnCkkCGRx34u0qGwzZrUBQ/99229979-5d3f-4f6f-9e7b-9a6b73775c00/public)
-
-If you have ever tried to download 123Movies videos and hit a wall because the stream would not save, this tool handles it.
-
-## 🔗 Links
-
-- 🎁 Get it [**here**](https://serp.ly/123movies-downloader)
-- ❓ Check FAQs [**here**](https://help.serp.co/en/)
-- 🐛 Report bugs [**here**](https://github.com/serpapps/123movies-downloader/issues)
-- 🆕 Request features [**here**](https://github.com/serpapps/123movies-downloader/discussions)
-- 📦 Latest release [**here**](https://github.com/serpapps/123movies-downloader/releases/latest)
-
-## Resources
-
-- 💬 [**Community**](https://community.serp.co)
-- 💌 [**Newsletter**](https://newsletter.serp.co)
-- 🛒 [**Shop**](https://store.serp.co)
-- 🎓 [**Courses**](https://courses.serp.co)
+**Product page:** https://serp.ly/123movies-downloader<br>
+**Help center:** https://help.serp.co/en/<br>
+**Latest release:** [https://github.com/serpapps/123movies-downloader/releases/latest](https://github.com/serpapps/123movies-downloader/releases/latest)
 
 ## Why 123Movies Downloader
 
@@ -34,35 +12,35 @@ If you have ever tried to download 123Movies videos and hit a wall because the s
 
 Generic downloaders typically fail on 123Movies because they cannot find or process the streaming format these sites use. This extension was designed from the ground up to handle that specific behavior, so detection and conversion happen reliably in your browser every time.
 
-## Features
+## Key features
 
-- **Auto stream detection** — Finds the video stream the moment you press play on any 123Movies mirror site
-- **In-browser MP4 conversion** — Converts streaming video to standard MP4 files entirely in your browser, no external tools needed
-- **Quality selector** — Pick from available resolutions (720p, 480p, 360p) or default to the best option
-- **Built-in download manager** — Real-time progress bar so you always know where your download stands
-- **Full mirror coverage** — Works across all 123Movies domains and mirror variants automatically, no manual configuration
-- **Dark-themed UI** — Clean popup interface that fits right into the browsing experience
-- **Auto-update notifications** — Get notified when new versions are released
-- **3 free trial downloads** — No credit card required to get started
+- Auto-detects video streams the moment you press play on any 123Movies mirror site
+- Converts streaming video to standard MP4 files entirely within your browser — no external tools or software required
+- Quality selector lets you pick from available resolutions (720p, 480p, 360p) or default to the best option
+- Built-in download manager with a real-time progress bar so you always know where your download stands
+- Works across all 123Movies domains and mirror variants automatically — no manual configuration
+- Dark-themed popup interface that fits right into the browsing experience
+- Automatic update notifications when new versions are released
+- 3 free trial downloads included — no credit card required to get started
 
-## How It Works
+## How it works
 
-1. **Add the extension** — Install SERP 123Movies Downloader from your browser's extension store, or download the latest version from [GitHub Releases](https://github.com/serpapps/123movies-downloader/releases/latest) and load it manually
+1. **Add the extension** — Install SERP 123Movies Downloader from your browser's extension store
 2. **Visit any 123Movies site** — Navigate to any 123Movies mirror and start playing the video you want to save
 3. **Wait for detection** — The extension icon highlights in your toolbar the moment a downloadable video is found
 4. **Choose quality and save** — Click the icon, select your preferred resolution from the dropdown, and hit Download to save the video as MP4
 
-## Supported Formats
+## Supported formats
 
 All downloads are saved as standard **MP4** files that play on any device or media player. Available quality depends on the source — most 123Movies mirrors offer 720p, 480p, and 360p options. The extension selects the best available quality by default, or you can pick manually.
 
-## Step-by-Step Tutorial: How to Download Videos from 123Movies
+## Step-by-step tutorial: How to download videos from 123Movies
 
 Downloading from 123Movies is tricky because these sites use streaming protocols that prevent normal saving, and the mirror domains keep changing. SERP 123Movies Downloader solves both problems. Here is how to use it from start to finish.
 
 **What you need:** A supported browser — Chrome, Edge, Brave, Firefox, or Opera — and an internet connection.
 
-**Step 1 — Install the extension.** Open your browser's extension store, search for "Downloader for 123Movies," and click Add to Browser. Alternatively, download the latest release from [GitHub](https://github.com/serpapps/123movies-downloader/releases/latest) and load it manually in your browser's extension settings. The extension icon will appear in your toolbar once the install completes.
+**Step 1 — Install the extension.** Open your browser's extension store, search for "SERP 123Movies Downloader," and click Add to Browser. The extension icon will appear in your toolbar once the install completes.
 
 **Step 2 — Sign in.** Click the extension icon and enter your email address. You will receive a one-time verification code in your inbox. Enter that code to activate your 3 free trial downloads.
 
@@ -70,11 +48,11 @@ Downloading from 123Movies is tricky because these sites use streaming protocols
 
 **Step 4 — Download.** Once the video is playing, click the extension icon in your toolbar (it highlights when a video is detected). Select your preferred quality from the dropdown and press Download. The file saves directly to your default Downloads folder as an MP4.
 
-**Tips:** This 123Movies downloader Chrome extension works on every mirror automatically, so you never have to worry about which domain is current. Use the built-in download manager to track progress in real time. If you want to save movies from 123Movies browser without taking up too much storage, pick a lower resolution like 480p.
+**Tips:** This 123movies downloader Chrome extension works on every mirror automatically, so you never have to worry about which domain is current. Use the built-in download manager to track progress in real time. If you want to save movies from 123Movies browser without taking up too much storage, pick a lower resolution like 480p.
 
-**Troubleshooting:** Video not detected? Make sure you pressed play first. Still not working? Refresh the page and try again. If the problem continues, check that the extension is enabled in your browser's extension settings.
+**Troubleshooting:** Video not detected Make sure you pressed play first. Still not working Refresh the page and try again. If the problem continues, check that the extension is enabled in your browser's extension settings.
 
-## Who It's For
+## Who it's for
 
 - **Casual viewers on 123Movies mirror sites** who want a simple, one-click way to save videos for offline viewing — no technical skills or extra software required
 - **Travelers and commuters** who want to download movies or shows ahead of time so they have something to watch on a flight, train, or anywhere without a reliable internet connection
@@ -82,7 +60,7 @@ Downloading from 123Movies is tricky because these sites use streaming protocols
 - **Non-technical users** who do not want to deal with command-line tools, desktop software, or complicated setup processes
 - **Anyone who has tried generic downloaders** that could not detect or save videos from 123Movies sites and needs a tool that actually works
 
-## Common Use Cases
+## Common use cases
 
 - Save a movie or show from 123Movies for offline viewing on a flight, train, or road trip where you will not have internet access
 - Archive content from a 123Movies mirror that might go offline tomorrow — keep your own local copy before the domain disappears
@@ -90,7 +68,7 @@ Downloading from 123Movies is tricky because these sites use streaming protocols
 - Save content in the best available quality for your home library, or choose a smaller resolution like 480p to save storage space
 - Build a personal collection of downloaded content on your computer that you can watch anytime, on any device
 
-## What Makes This 123Movies Video Download Tool Different
+## What makes this 123Movies video download tool different
 
 Most generic downloaders are not built for 123Movies. They fail to detect the streaming format these sites use, and when the mirror domain changes, they stop working entirely.
 
@@ -104,7 +82,7 @@ SERP 123Movies Downloader is purpose-built for 123Movies and all its mirrors. He
 
 Press play, click download — that is the entire workflow, whether you are on a 123Movies mirror you have used for years or one you just found today.
 
-## Trial & Pricing
+## Trial & access
 
 3 free downloads after signing in with your email — no credit card required. Upgrade to a subscription for unlimited downloads at the [product page](https://serp.ly/123movies-downloader) for just $9/month.
 
@@ -115,42 +93,38 @@ Press play, click download — that is the entire workflow, whether you are on a
 
 ## FAQ
 
-### Q: Which 123Movies sites does this work on?
+### **Q: Which 123Movies sites does this work on**
 
 It works on all 123Movies mirrors and variants. Any domain containing "123movies" or "123-movies" is automatically detected, including new mirrors as they appear.
 
-### Q: What format are the downloaded videos?
+### **Q: What format are the downloaded videos**
 
 All videos are saved as standard MP4 files that play on any device or media player.
 
-### Q: Do I need to press play first?
+### **Q: Do I need to press play first**
 
 Yes. The extension detects the video stream when you start playback. Press play on the video, then click the extension icon to see your download options.
 
-### Q: How many free downloads do I get?
+### **Q: How many free downloads do I get**
 
 You get 3 free trial downloads after signing in with your email. After that, you can subscribe for unlimited downloads at just $9/month.
 
-### Q: Does this work on Firefox?
+### **Q: Does this work on Firefox**
 
 Yes. SERP 123Movies Downloader supports Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox.
 
-### Q: Why isn't the extension detecting my video?
+### **Q: Why isn't the extension detecting my video**
 
 Make sure you have pressed play on the video first. Some pages require playback to begin before the stream can be found. If the issue persists, try refreshing the page and playing the video again.
 
-### Q: Is my data safe?
+### **Q: Is my data safe**
 
 The extension only processes video data locally in your browser. No video content is uploaded anywhere. Authentication uses a secure one-time passcode system — no passwords are stored.
 
-## Important Notes
+## Notes (important)
 
 This extension is intended for downloading content you own or have permission to save. Users are responsible for ensuring they have the right to download any content. Quality options depend on what the source site provides. An internet connection is required during the download process.
 
-## Keywords
-
-`123movies downloader` `123movies video downloader` `download 123movies` `123movies mp4` `123movies browser extension` `save 123movies videos` `123movies mirror downloader`
-
-## Get It
+## Get it
 
 - **Start here:** [SERP 123Movies Downloader](https://serp.cc/VDM-123movies-downloader)
