@@ -13,20 +13,17 @@ SERP 123Movies Downloader is the only browser extension built specifically for s
 
 If you have ever tried to download 123Movies videos and hit a wall because the stream would not save, this tool handles it.
 
-## 🔗 Links
+## Preview
 
-- 🎁 Get it [**here**](https://serp.ly/123movies-downloader)
-- ❓ Check FAQs [**here**](https://help.serp.co/en/)
-- 🐛 Report bugs [**here**](https://github.com/serpapps/123movies-downloader/issues)
-- 🆕 Request features [**here**](https://github.com/serpapps/123movies-downloader/discussions)
-- 📦 Latest release [**here**](https://github.com/serpapps/123movies-downloader/releases/latest)
+![123Movies Downloader workflow preview](assets/workflow-preview.webp)
 
-## Resources
+## Links
 
-- 💬 [**Community**](https://community.serp.co)
-- 💌 [**Newsletter**](https://newsletter.serp.co)
-- 🛒 [**Shop**](https://store.serp.co)
-- 🎓 [**Courses**](https://courses.serp.co)
+- :rocket: Get it here: [123Movies Downloader](https://serp.ly/123movies-downloader)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/123movies-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/123movies-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/123movies-downloader/discussions)
 
 ## Why 123Movies Downloader
 
@@ -143,14 +140,6 @@ Make sure you have pressed play on the video first. Some pages require playback 
 
 The extension only processes video data locally in your browser. No video content is uploaded anywhere. Authentication uses a secure one-time passcode system — no passwords are stored.
 
-## Important Notes
+## License
 
-This extension is intended for downloading content you own or have permission to save. Users are responsible for ensuring they have the right to download any content. Quality options depend on what the source site provides. An internet connection is required during the download process.
-
-## Keywords
-
-`123movies downloader` `123movies video downloader` `download 123movies` `123movies mp4` `123movies browser extension` `save 123movies videos` `123movies mirror downloader`
-
-## Get It
-
-- **Start here:** [SERP 123Movies Downloader](https://serp.cc/VDM-123movies-downloader)
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
