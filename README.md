@@ -2,7 +2,6 @@
 
 > Download movies and TV shows from 123movies instantly without ads or popups
 
-
 ## Get the extension
 
 **Install here:** [123movies Downloader](https://serp.ly/123movies-downloader)
@@ -13,9 +12,8 @@ Use the product page above to get the browser extension and install instructions
 - GitHub repo: https://github.com/serpapps/123movies-downloader/
 - Latest release: https://github.com/serpapps/123movies-downloader/releases/latest
 
-![123movies Downloader](https://raw.githubusercontent.com/serpapps/123movies-downloader/main/assets/images/123movies-downloader.gif)
+![123movies Downloader](https://raw.githubusercontent.com/serpapps/123movies-downloader/main/images/featured.gif)
 
-123movies Downloader is a powerful tool that helps you download content from 123movies instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
 ## Features
 
 - Stream-to-file conversion
