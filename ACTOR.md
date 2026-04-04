@@ -5,9 +5,9 @@
 
 ## Get the extension
 
-**Start here:** [123movies Downloader](https://serp.ly/123movies-downloader)
+**Install here:** [123movies Downloader](https://serp.ly/123movies-downloader)
 
-This Apify page is the overview. The actual browser extension is available from the product page above.
+Use the product page above to get the browser extension and install instructions.
 
 - Product page: https://serp.ly/123movies-downloader
 - GitHub repo: https://github.com/serpapps/123movies-downloader/
