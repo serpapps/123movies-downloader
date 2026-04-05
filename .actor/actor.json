@@ -4,7 +4,7 @@
   "description": "Browser extension for capturing 123movies mirror streams as local MP4 files with in-browser processing, retries, and offline playback support.",
   "input": "./INPUT_SCHEMA.json",
   "name": "123movies-downloader",
-  "readme": "../ACTOR.md",
+  "readme": "../README.md",
   "title": "123movies Downloader",
   "version": "0.0"
 }
