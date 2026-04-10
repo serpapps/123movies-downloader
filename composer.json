@@ -1,0 +1,24 @@
+{
+    "name": "serpapps/123movies-downloader",
+    "type": "library",
+    "description": "Download movies and TV shows from 123movies instantly without ads or popups",
+    "keywords": [
+        "123movies",
+        "123movies-downloader",
+        "browser-extension",
+        "download-123movies-videos",
+        "video-downloader"
+    ],
+    "homepage": "https://github.com/serpapps/123movies-downloader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SERP Apps",
+            "homepage": "https://github.com/serpapps",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
