@@ -1,11 +1,5 @@
 # 123Movies Downloader  (Browser Extension)
 
-## Watch the video
-
-<a href="https://www.youtube.com/watch?v=ml1D7wBDS2k" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-123movies-videos-for-free-chrome-extension-method.jpg" width="700px">
-</a>
-
 > Browser extension that detects and saves videos from 123Movies and all its mirror sites as standard MP4 files — directly in your browser, no extra software required.
 
 SERP 123Movies Downloader is the only browser extension built specifically for saving videos from 123Movies and every one of its mirror sites. 
