@@ -15,10 +15,6 @@ If you have ever tried to download 123Movies videos and hit a wall because the s
 
 ## Preview
 
-![123Movies Downloader workflow preview](https://raw.githubusercontent.com/serpapps/123movies-downloader/refs/heads/main/assets/workflow-preview.webp)
-
-## Watch The Video
-
 <a href="https://www.youtube.com/watch?v=ml1D7wBDS2k" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-123movies-videos-for-free-chrome-extension-method.jpg" width="700px">
 </a>
