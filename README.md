@@ -21,7 +21,7 @@ If you have ever tried to download 123Movies videos and hit a wall because the s
 
 ## Links
 
-- :rocket: Get it here: [123Movies Downloader](https://serp.ly/123movies-downloader)
+- :rocket: Get it here: [123Movies Downloader](https://serp.ly/123movies-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/123movies-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/123movies-downloader/issues)
@@ -105,7 +105,7 @@ Press play, click download — that is the entire workflow, whether you are on a
 
 ## Trial & Pricing
 
-3 free downloads after signing in with your email — no credit card required. Upgrade to a subscription for unlimited downloads at the [product page](https://serp.ly/123movies-downloader) for just $9/month.
+3 free downloads after signing in with your email — no credit card required. Upgrade to a subscription for unlimited downloads at the [product page](https://serp.ly/123movies-downloader?via=github) for just $9/month.
 
 - Works on Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 - Secure one-time-passcode sign-in — no passwords stored
